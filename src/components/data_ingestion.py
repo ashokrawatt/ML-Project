@@ -10,7 +10,7 @@ from src.components.data_transformation import DataTransformation
 
 
 ## Intitialize the Data Ingetion Configuration
-
+ 
 @dataclass
 
 class DataIngestionconfig:
